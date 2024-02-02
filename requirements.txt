@@ -1,5 +1,5 @@
 # requirements.txt
 snowflake-connector-python
-streamlit==1.11.0 -r
+streamlit==1.25.0
 
 
